@@ -1,2 +1,5 @@
 # hello-world
-Qiaoyu Lu's hello-world project on GitHub
+
+Hi, everyone!
+This is Qiaoyu Lu's hello-world project on GitHub.
+Bravo!
